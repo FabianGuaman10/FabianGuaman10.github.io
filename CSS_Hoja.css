@@ -1,0 +1,29 @@
+body { 
+    background-image: url(fondo.jpg) 
+}
+h1,h2 {
+    text-align:center;
+    font-size: 36px;
+    color: blue;
+    font-family: 'Open Sans';
+    }
+p,td {
+    font-size: 25px;
+    color: black;
+    font-family: 'Open Sans';
+}
+th {
+    font-size: 25px;
+    color: rgb(0, 26, 255);
+    font-family: 'Open Sans';
+}
+h5 {
+    font-size: 20px;
+    color: rgb(0, 26, 255);
+    font-family: 'Open Sans';
+}
+ul {
+    font-size: 18px;
+    color: black;
+    font-family: 'Open Sans';
+}
